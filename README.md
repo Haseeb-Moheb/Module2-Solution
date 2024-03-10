@@ -35,4 +35,5 @@ Here is the mockup illustration of the tablet version of the site. Your final re
 ![alt text](image-1.png)
 
 Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
+
 ![alt text](image-2.png)
