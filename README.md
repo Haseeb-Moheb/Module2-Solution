@@ -29,11 +29,11 @@ Borders and Colors: Each section should have a background color set to some colo
 Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
 
 Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
-![alt text](image/image.png)
+![alt text](images/image.png)
 
 Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
-![alt text](image/image-1.png)
+![alt text](images/image-1.png)
 
 Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
 
-![alt text](image/image-2.png)
+![alt text](images/image-2.png)
